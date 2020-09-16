@@ -1,0 +1,75 @@
+<td>rowspan</td>
+<th>rowspan</th>
+
+<table>
+
+</tr>
+<tr>
+<th>Verdureira TNx</th>
+<th>Frutas</th>
+<th>Legumes</th>
+<th>Cereais</th>
+
+    </tr>
+    <tr>
+    <td>Foto</td>
+    <td>Nome </td>
+    <td>Preço</td>
+    <td>rowspan="9" > R$50,00,R$17,00,R$8,00,R$3,75,R$1,65,R$3,50,R$1,75,R$9,65,R$4,50 </td>
+
+    
+    <tr>
+</table>
+
+</tr>
+<tr>
+<th>Frutas</th>
+<th>Legumes</th>
+<th>Cereais</th>
+<th>rowspan="9">"Foto,Nome,Preço"</td>
+   
+
+    </tr>
+    <tr>
+
+        <Element> Frutas,Legumes,Cereais></Element>
+
+        <td>colspan</td>
+        <th>colspan</th>
+
+        <table>
+
+        </tr>
+        <tr>
+        <th>Verdureira TNx</th>
+        <th>Frutas</th>
+        <th>Legumes</th>
+        <th>Cereais</th>
+        
+            </tr>
+            <tr>
+            <td>Foto</td>
+            <td>Nome </td>
+            <td>Preço</td>
+            <td>colspan="9" > R$50,00,R$17,00,R$8,00,R$3,75,R$1,65,R$3,50,R$1,75,R$9,65,R$4,50 </td>
+        
+            
+            <tr>
+        </table>
+
+    </table>
+
+</tr>
+<tr>
+<th>Frutas</th>
+<th>Legumes</th>
+<th>Cereais</th>
+<th>colspan="9">"Foto,Nome,Preço"</td>
+   
+
+    </tr>
+    <tr>
+
+        <Element> Foto,Nome,preço></Element>
+        
+
